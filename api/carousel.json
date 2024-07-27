@@ -2,33 +2,18 @@
     "carousel": [
         {
             "id": 1,
-<<<<<<< HEAD
             "image": "https://george-fx.github.io/everbloom/assets/carousel/02.png",
             "promotion": "Welcome To StepHub! 50% Off"
-=======
-            "image": "https://george-fx.github.io/everbloom/assets/carousel/01.png",
-            "promotion": "Enjoy 30% Off on Select Items!"
->>>>>>> b4d8720215daaabd13173ac4beabf3d7d70ea617
         },
         {
             "id": 2,
-<<<<<<< HEAD
             "image": "https://george-fx.github.io/everbloom/assets/carousel/02.png",
             "promotion": "Welcome To StepHub! 50% Off"
-=======
-            "image": "https://george-fx.github.io/everbloom/assets/carousel/01.png",
-            "promotion": "Enjoy 30% Off on Select Items!"
->>>>>>> b4d8720215daaabd13173ac4beabf3d7d70ea617
         },
         {
             "id": 3,
-<<<<<<< HEAD
             "image": "https://george-fx.github.io/everbloom/assets/carousel/02.png",
             "promotion": "Welcome To StepHub! 50% Off"
-=======
-            "image": "https://george-fx.github.io/everbloom/assets/carousel/01.png",
-            "promotion": "Enjoy 30% Off on Select Items!"
->>>>>>> b4d8720215daaabd13173ac4beabf3d7d70ea617
         }
     ]
 }
