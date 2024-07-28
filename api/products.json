@@ -4,10 +4,32 @@
           "id": 1,
           "name": "Peace Lily",
           "colors": [
-            "Tropical Indigo",
-            "Medium Sky Blue",
-            "Lavender Rose"
-          ],
+            {
+                "id": 1,
+                "name": "Pastel Red",
+                "code": "#FF6262"
+            },
+            {
+                "id": 2,
+                "name": "Maya Blue",
+                "code": "#63C7FF"
+            },
+            {
+                "id": 3,
+                "name": "Champagne",
+                "code": "#F8E7CD"
+            },
+            {
+                "id": 4,
+                "name": "Delft blue",
+                "code": "#193364"
+            },
+            {
+                "id": 5,
+                "name": "Black",
+                "code": "#000000"
+            }
+        ],
           "image": "https://george-fx.github.io/everbloom/assets/products/01_01.jpg",
           "potTypes": [
             "Plastic"
