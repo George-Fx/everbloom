@@ -28,7 +28,17 @@
                 "id": 5,
                 "name": "Light Salmon Pink",
                 "code": "#FF8C8C"
-            }
+            },
+            {
+                "id": 6,
+                "name": "Yellow (Crayola)",
+                "code": "#FFF176"
+            },
+            {
+              "id": 7,
+              "name": "Light Salmon Pink",
+              "code": "#FF8C8C"
+          }
           ],
           "image": "https://george-fx.github.io/everbloom/assets/products/01_01.jpg",
           "potTypes": [
