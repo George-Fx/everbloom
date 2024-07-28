@@ -2,7 +2,7 @@
     "reviews": [
         {
             "id": 1,
-            "name": "Emily Johnson",
+            "name": "Isabella Thompson",
             "rating": 5,
             "date": "23 Mar",
             "photo": "https://george-fx.github.io/everbloom/assets/users/02.jpg",
@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "name": "Marcus Nguyen",
+            "name": "Lucas Mitchell",
             "rating": 5,
             "date": "23 Mar",
             "photo": "https://george-fx.github.io/everbloom/assets/users/03.jpg",
@@ -18,7 +18,7 @@
         },
         {
             "id": 3,
-            "name": "Michael Thompson",
+            "name": "Jasmine Rodriguez",
             "rating": 5,
             "date": "23 Mar",
             "photo": "https://george-fx.github.io/everbloom/assets/users/04.jpg",
@@ -26,7 +26,7 @@
         },
         {
             "id": 4,
-            "name": "Theresa Webb",
+            "name": "Aidan Foster",
             "rating": 5,
             "date": "23 Mar",
             "photo": "https://george-fx.github.io/everbloom/assets/users/05.jpg",
@@ -34,7 +34,7 @@
         },
         {
             "id": 5,
-            "name": "Benjamin Davis",
+            "name": "Savannah Campbell",
             "rating": 5,
             "date": "23 Mar",
             "photo": "https://george-fx.github.io/everbloom/assets/users/06.jpg",
@@ -42,7 +42,7 @@
         },
         {
             "id": 6,
-            "name": "Ethan Wilson",
+            "name": "Xavier Bennett",
             "rating": 5,
             "date": "23 Mar",
             "photo": "https://george-fx.github.io/everbloom/assets/users/07.jpg",
