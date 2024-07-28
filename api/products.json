@@ -71,10 +71,41 @@
           "id": 2,
           "name": "Mint",
           "colors": [
-            "Lavender Rose",
-            "Yellow (Crayola)",
-            "Topaz",
-            "Pastel Green"
+            {
+                "id": 1,
+                "name": "White",
+                "code": "#FFFFFF"
+            },
+            {
+                "id": 2,
+                "name": "Tropical Indigo",
+                "code": "#AB86FB"
+            },
+            {
+                "id": 3,
+                "name": "Medium Sky Blue",
+                "code": "#99EDFF"
+            },
+            {
+                "id": 4,
+                "name": "Lavender Rose",
+                "code": "#FF95E1"
+            },
+            {
+                "id": 5,
+                "name": "Light Salmon Pink",
+                "code": "#FF8C8C"
+            },
+            {
+                "id": 6,
+                "name": "Yellow (Crayola)",
+                "code": "#FFF176"
+            },
+            {
+              "id": 7,
+              "name": "Topaz",
+              "code": "#FFC179"
+            }
           ],
           "image": "https://everbloom.rn-admin.site/storage/e6dn9ui5QDfyDdhZnPXwbgnLgj5TMmBb4FhRnPZM.jpg",
           "potTypes": [
@@ -107,10 +138,41 @@
           "id": 4,
           "name": "Orchids",
           "colors": [
-            "Medium Sky Blue",
-            "Light Salmon Pink",
-            "Yellow (Crayola)",
-            "Topaz"
+            {
+                "id": 1,
+                "name": "White",
+                "code": "#FFFFFF"
+            },
+            {
+                "id": 2,
+                "name": "Tropical Indigo",
+                "code": "#AB86FB"
+            },
+            {
+                "id": 3,
+                "name": "Medium Sky Blue",
+                "code": "#99EDFF"
+            },
+            {
+                "id": 4,
+                "name": "Lavender Rose",
+                "code": "#FF95E1"
+            },
+            {
+                "id": 5,
+                "name": "Light Salmon Pink",
+                "code": "#FF8C8C"
+            },
+            {
+                "id": 6,
+                "name": "Yellow (Crayola)",
+                "code": "#FFF176"
+            },
+            {
+              "id": 7,
+              "name": "Topaz",
+              "code": "#FFC179"
+            }
           ],
           "image": "https://everbloom.rn-admin.site/storage/9twtDYporwEySnqlNkBgi2wcLk88wTg1JFvCDKdG.jpg",
           "potTypes": [
@@ -143,9 +205,41 @@
           "id": 5,
           "name": "Aloe Vera",
           "colors": [
-            "Yellow (Crayola)",
-            "Topaz",
-            "Pastel Green"
+            {
+                "id": 1,
+                "name": "White",
+                "code": "#FFFFFF"
+            },
+            {
+                "id": 2,
+                "name": "Tropical Indigo",
+                "code": "#AB86FB"
+            },
+            {
+                "id": 3,
+                "name": "Medium Sky Blue",
+                "code": "#99EDFF"
+            },
+            {
+                "id": 4,
+                "name": "Lavender Rose",
+                "code": "#FF95E1"
+            },
+            {
+                "id": 5,
+                "name": "Light Salmon Pink",
+                "code": "#FF8C8C"
+            },
+            {
+                "id": 6,
+                "name": "Yellow (Crayola)",
+                "code": "#FFF176"
+            },
+            {
+              "id": 7,
+              "name": "Topaz",
+              "code": "#FFC179"
+            }
           ],
           "image": "https://everbloom.rn-admin.site/storage/OCZJFEGuM1j0iw6WMQbZxs9xPq4DpXITtRjn8rUM.jpg",
           "potTypes": [
@@ -178,10 +272,41 @@
           "id": 6,
           "name": "Lavender",
           "colors": [
-            "Tropical Indigo",
-            "Medium Sky Blue",
-            "Lavender Rose",
-            "Light Salmon Pink"
+            {
+                "id": 1,
+                "name": "White",
+                "code": "#FFFFFF"
+            },
+            {
+                "id": 2,
+                "name": "Tropical Indigo",
+                "code": "#AB86FB"
+            },
+            {
+                "id": 3,
+                "name": "Medium Sky Blue",
+                "code": "#99EDFF"
+            },
+            {
+                "id": 4,
+                "name": "Lavender Rose",
+                "code": "#FF95E1"
+            },
+            {
+                "id": 5,
+                "name": "Light Salmon Pink",
+                "code": "#FF8C8C"
+            },
+            {
+                "id": 6,
+                "name": "Yellow (Crayola)",
+                "code": "#FFF176"
+            },
+            {
+              "id": 7,
+              "name": "Topaz",
+              "code": "#FFC179"
+            }
           ],
           "image": "https://everbloom.rn-admin.site/storage/4DbT6k3NXAZHIoWC3B69FeSWWYG0km8p0zz2xd9n.jpg",
           "potTypes": [
@@ -214,8 +339,41 @@
           "id": 7,
           "name": "Aakdo",
           "colors": [
-            "Medium Sky Blue",
-            "Lavender Rose"
+            {
+                "id": 1,
+                "name": "White",
+                "code": "#FFFFFF"
+            },
+            {
+                "id": 2,
+                "name": "Tropical Indigo",
+                "code": "#AB86FB"
+            },
+            {
+                "id": 3,
+                "name": "Medium Sky Blue",
+                "code": "#99EDFF"
+            },
+            {
+                "id": 4,
+                "name": "Lavender Rose",
+                "code": "#FF95E1"
+            },
+            {
+                "id": 5,
+                "name": "Light Salmon Pink",
+                "code": "#FF8C8C"
+            },
+            {
+                "id": 6,
+                "name": "Yellow (Crayola)",
+                "code": "#FFF176"
+            },
+            {
+              "id": 7,
+              "name": "Topaz",
+              "code": "#FFC179"
+            }
           ],
           "image": "https://everbloom.rn-admin.site/storage/KqHDRtc5vEgUDRbgYl7dch2sHDsq3u01LmYb5RdM.jpg",
           "potTypes": [
