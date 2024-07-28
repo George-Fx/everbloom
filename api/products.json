@@ -135,7 +135,7 @@
       "isBestSeller": false
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Orchids",
       "colors": [
         {
@@ -202,7 +202,7 @@
       "isBestSeller": true
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Aloe Vera",
       "colors": [
         {
@@ -269,7 +269,7 @@
       "isBestSeller": true
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Lavender",
       "colors": [
         {
@@ -336,7 +336,7 @@
       "isBestSeller": false
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Aakdo",
       "colors": [
         {
@@ -375,7 +375,7 @@
           "code": "#FFC179"
         }
       ],
-      "image": "https://everbloom.rn-admin.site/storage/KqHDRtc5vEgUDRbgYl7dch2sHDsq3u01LmYb5RdM.jpg",
+      "image": "https://george-fx.github.io/everbloom/assets/products/06_01.jpg",
       "potTypes": [
         "Iron"
       ],
