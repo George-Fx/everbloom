@@ -1,411 +1,216 @@
 {
     "products": [
         {
-            "id": 1,
-            "sizes": [
-                "39",
-                "40",
-                "41",
-                "42",
-                "43",
-                "44"
-            ],
-            "tags": [
-                "Sneakers",
-                "Flexible",
-                "Comfortable"
-            ],
-            "name": "FlexFit Training Shoes",
-            "colors": [
-                {
-                    "id": 1,
-                    "name": "Pastel Red",
-                    "code": "#FF6262"
-                },
-                {
-                    "id": 2,
-                    "name": "Maya Blue",
-                    "code": "#63C7FF"
-                },
-                {
-                    "id": 3,
-                    "name": "Champagne",
-                    "code": "#F8E7CD"
-                },
-                {
-                    "id": 4,
-                    "name": "Delft blue",
-                    "code": "#193364"
-                },
-                {
-                    "id": 5,
-                    "name": "Black",
-                    "code": "#000000"
-                }
-            ],
-            "images": [
-                "https://george-fx.github.io/stephub/assets/products/01.jpg",
-                "https://george-fx.github.io/stephub/assets/products/01.jpg",
-                "https://george-fx.github.io/stephub/assets/products/01.jpg"
-            ],
-            "image": "https://george-fx.github.io/stephub/assets/products/01.jpg",
-            "audience": [
-                "Men"
-            ],
-            "categories": [
-                "Athletic Shoes"
-            ],
-            "description": "Get ready to elevate your workout game with our FlexFit Training Shoes. Engineered for maximum performance and comfort, these shoes are designed to support you thro...",
-            "rating": 3,
-            "quantity": null,
-            "promotion": "Welcome To StepHub! 50% Off",
-            "isNew": true,
-            "isTop": false,
-            "ratingCount": 23,
-            "price": "76.99",
-            "isFeatured": true,
-            "isBestSeller": true,
-            "oldPrice": "109.00"
+          "id": 1,
+          "name": "Peace Lily",
+          "colors": [
+            "Tropical Indigo",
+            "Medium Sky Blue",
+            "Lavender Rose"
+          ],
+          "image": "https://everbloom.rn-admin.site/storage/QztnOd0SwLw2evFG1Ye7H2I623Q4WZjLMKWacySR.jpg",
+          "potTypes": [
+            "Plastic"
+          ],
+          "categories": [
+            "Flowering Plants"
+          ],
+          "plantTypes": [
+            "Flowering"
+          ],
+          "price": "18.49",
+          "images": [
+            "https://everbloom.rn-admin.site/storage/VmrTiMPE50AVJBgZ5Vfxg2Zz9DoMZ3fOuVPBNfyh.jpg",
+            "https://everbloom.rn-admin.site/storage/yvxkg5WrOv1FIRczJdWfKoOwxwfH3nB9qkwzyRaN.jpg",
+            "https://everbloom.rn-admin.site/storage/pW1qWPMBl4zPUASMeKCw5iocCuw8XXO22ui2GIqz.jpg"
+          ],
+          "rating": 5,
+          "quantity": null,
+          "description": "Immerse yourself in the delicate charm of pink orchids. Radiating a sense of femininity and grace, these exquisite blossoms captivate with their soft, pastel hues. Each petal unfurls like a whisper of beauty, creating a visual symphony that speaks...",
+          "promotion": "Enjoy 30% Off On Select Items!",
+          "isNew": false,
+          "isTop": true,
+          "ratingCount": 1,
+          "isFeatured": false,
+          "oldPrice": null,
+          "isBestSeller": true
         },
         {
-            "id": 2,
-            "sizes": [
-                "39",
-                "40",
-                "41",
-                "42",
-                "43",
-                "44"
-            ],
-            "tags": [
-                "Sneakers",
-                "Flexible",
-                "Comfortable"
-            ],
-            "name": "FlexFit Training Shoes",
-            "colors": [
-                {
-                    "id": 1,
-                    "name": "Pastel Red",
-                    "code": "#FF6262"
-                },
-                {
-                    "id": 2,
-                    "name": "Maya Blue",
-                    "code": "#63C7FF"
-                },
-                {
-                    "id": 3,
-                    "name": "Champagne",
-                    "code": "#F8E7CD"
-                },
-                {
-                    "id": 4,
-                    "name": "Delft blue",
-                    "code": "#193364"
-                },
-                {
-                    "id": 5,
-                    "name": "Black",
-                    "code": "#000000"
-                }
-            ],
-            "images": [
-                "https://george-fx.github.io/stephub/assets/products/02.jpg",
-                "https://george-fx.github.io/stephub/assets/products/02.jpg",
-                "https://george-fx.github.io/stephub/assets/products/02.jpg"
-            ],
-            "image": "https://george-fx.github.io/stephub/assets/products/02.jpg",
-            "audience": [
-                "Men"
-            ],
-            "categories": [
-                "Athletic Shoes"
-            ],
-            "description": "Get ready to elevate your workout game with our FlexFit Training Shoes. Engineered for maximum performance and comfort, these shoes are designed to support you thro...",
-            "rating": 4,
-            "quantity": null,
-            "promotion": "Welcome To StepHub! 50% Off",
-            "isNew": false,
-            "isTop": true,
-            "ratingCount": 14,
-            "price": "76.99",
-            "isFeatured": true,
-            "isBestSeller": true,
-            "oldPrice": "109.00"
+          "id": 2,
+          "name": "Mint",
+          "colors": [
+            "Lavender Rose",
+            "Yellow (Crayola)",
+            "Topaz",
+            "Pastel Green"
+          ],
+          "image": "https://everbloom.rn-admin.site/storage/e6dn9ui5QDfyDdhZnPXwbgnLgj5TMmBb4FhRnPZM.jpg",
+          "potTypes": [
+            "Ceramic"
+          ],
+          "categories": [
+            "Herbs & Edibles"
+          ],
+          "plantTypes": [
+            "Herbs And Edibles"
+          ],
+          "price": "8.99",
+          "images": [
+            "https://everbloom.rn-admin.site/storage/Jtta0C40AssSGalpJPr9OyaiKbk34lOUyUfyWp1Y.jpg",
+            "https://everbloom.rn-admin.site/storage/1r3CR6YIxbwktIQSXNmA29jaTJI1LzzQLoTwP0ev.jpg",
+            "https://everbloom.rn-admin.site/storage/tRkkE9czpjx23cZeybmUYfm1r0slbuDdzOXHcAKk.jpg"
+          ],
+          "rating": 4.67,
+          "quantity": null,
+          "description": "Immerse yourself in the delicate charm of pink orchids. Radiating a sense of femininity and grace, these exquisite blossoms captivate with their soft, pastel hues. Each petal unfurls like a whisper of beauty, creating a visual symphony that speaks...",
+          "promotion": "Exclusive Weekend Deal! Save 20%!",
+          "isNew": true,
+          "isTop": false,
+          "ratingCount": 3,
+          "isFeatured": true,
+          "oldPrice": null,
+          "isBestSeller": false
         },
         {
-            "id": 3,
-            "sizes": [
-                "39",
-                "40",
-                "41",
-                "42",
-                "43",
-                "44"
-            ],
-            "tags": [
-                "Hiking Boots",
-                "Waterproof",
-                "Comfortable",
-                "Flexible",
-                "Stylish"
-            ],
-            "name": "Seeker Hiking Boots",
-            "colors": [
-                {
-                    "id": 1,
-                    "name": "Pastel Red",
-                    "code": "#FF6262"
-                },
-                {
-                    "id": 2,
-                    "name": "Maya Blue",
-                    "code": "#63C7FF"
-                },
-                {
-                    "id": 3,
-                    "name": "Champagne",
-                    "code": "#F8E7CD"
-                },
-                {
-                    "id": 4,
-                    "name": "Delft blue",
-                    "code": "#193364"
-                },
-                {
-                    "id": 5,
-                    "name": "Black",
-                    "code": "#000000"
-                }
-            ],
-            "images": [
-                "https://george-fx.github.io/stephub/assets/products/03.jpg",
-                "https://george-fx.github.io/stephub/assets/products/03.jpg",
-                "https://george-fx.github.io/stephub/assets/products/03.jpg"
-            ],
-            "image": "https://george-fx.github.io/stephub/assets/products/03.jpg",
-            "audience": [
-                "Men"
-            ],
-            "categories": [
-                "Specialty Shoes"
-            ],
-            "description": "Get ready to elevate your workout game with our FlexFit Training Shoes. Engineered for maximum performance and comfort, these shoes are designed to support you thro...",
-            "rating": 3,
-            "quantity": null,
-            "promotion": "Take 50% Off Now!",
-            "isNew": true,
-            "isTop": false,
-            "ratingCount": 27,
-            "price": "89.99",
-            "isFeatured": true,
-            "isBestSeller": true,
-            "oldPrice": null
+          "id": 4,
+          "name": "Orchids",
+          "colors": [
+            "Medium Sky Blue",
+            "Light Salmon Pink",
+            "Yellow (Crayola)",
+            "Topaz"
+          ],
+          "image": "https://everbloom.rn-admin.site/storage/9twtDYporwEySnqlNkBgi2wcLk88wTg1JFvCDKdG.jpg",
+          "potTypes": [
+            "Terracotta"
+          ],
+          "categories": [
+            "Flowering Plants"
+          ],
+          "plantTypes": [
+            "Flowering"
+          ],
+          "price": "29.99",
+          "images": [
+            "https://everbloom.rn-admin.site/storage/ins4R66jTl0kwGLPyjBamdLgLrn38yCylSCBgFeX.jpg",
+            "https://everbloom.rn-admin.site/storage/VFruRSZPpF41XkML6gatptTGOOJJXD6GGQiIuohK.jpg",
+            "https://everbloom.rn-admin.site/storage/oJivn7Spg4jMvRemD3rYfKiGLQLwLvIv6sBhPNIq.jpg"
+          ],
+          "rating": 0,
+          "quantity": null,
+          "description": "Immerse yourself in the delicate charm of pink orchids. Radiating a sense of femininity and grace, these exquisite blossoms captivate with their soft, pastel hues. Each petal unfurls like a whisper of beauty, creating a visual symphony that speaks...",
+          "promotion": "Enjoy 30% Off On Select Items!",
+          "isNew": false,
+          "isTop": true,
+          "ratingCount": 0,
+          "isFeatured": false,
+          "oldPrice": null,
+          "isBestSeller": true
         },
         {
-            "id": 4,
-            "sizes": [
-                "39",
-                "40",
-                "41",
-                "42",
-                "43",
-                "44"
-            ],
-            "tags": [
-                "Dress Shoes",
-                "Derbies",
-                "Stylish",
-                "Comfortable"
-            ],
-            "name": "Dapper Derby Shoes",
-            "colors": [
-                {
-                    "id": 1,
-                    "name": "Pastel Red",
-                    "code": "#FF6262"
-                },
-                {
-                    "id": 2,
-                    "name": "Maya Blue",
-                    "code": "#63C7FF"
-                },
-                {
-                    "id": 3,
-                    "name": "Champagne",
-                    "code": "#F8E7CD"
-                },
-                {
-                    "id": 4,
-                    "name": "Delft blue",
-                    "code": "#193364"
-                },
-                {
-                    "id": 5,
-                    "name": "Black",
-                    "code": "#000000"
-                }
-            ],
-            "images": [
-                "https://george-fx.github.io/stephub/assets/products/04.jpg",
-                "https://george-fx.github.io/stephub/assets/products/04.jpg",
-                "https://george-fx.github.io/stephub/assets/products/04.jpg"
-            ],
-            "image": "https://george-fx.github.io/stephub/assets/products/04.jpg",
-            "audience": [
-                "Men"
-            ],
-            "categories": [
-                "Formal Shoes"
-            ],
-            "description": "Get ready to elevate your workout game with our FlexFit Training Shoes. Engineered for maximum performance and comfort, these shoes are designed to support you thro...",
-            "rating": 4,
-            "quantity": null,
-            "promotion": "Welcome To StepHub! 50% Off",
-            "isNew": false,
-            "isTop": true,
-            "ratingCount": 8,
-            "price": "119.99",
-            "isFeatured": true,
-            "isBestSeller": true,
-            "oldPrice": null
+          "id": 5,
+          "name": "Aloe Vera",
+          "colors": [
+            "Yellow (Crayola)",
+            "Topaz",
+            "Pastel Green"
+          ],
+          "image": "https://everbloom.rn-admin.site/storage/OCZJFEGuM1j0iw6WMQbZxs9xPq4DpXITtRjn8rUM.jpg",
+          "potTypes": [
+            "Ceramic"
+          ],
+          "categories": [
+            "Succulents & Cacti"
+          ],
+          "plantTypes": [
+            "Succulents And Cacti"
+          ],
+          "price": "9.99",
+          "images": [
+            "https://everbloom.rn-admin.site/storage/NTsnL01rQpWJo8kEhLJohc1utDNnYffz85ZNPV4V.jpg",
+            "https://everbloom.rn-admin.site/storage/87PZMH7l21Wy0ge9qDl5TPBk7jWBsPNRKBzPEsKw.jpg",
+            "https://everbloom.rn-admin.site/storage/02IBUGvTm7M7NScgHiPwMPdrPdDRsb9BBDi8d5Yb.jpg"
+          ],
+          "rating": 5,
+          "quantity": null,
+          "description": "Immerse yourself in the delicate charm of pink orchids. Radiating a sense of femininity and grace, these exquisite blossoms captivate with their soft, pastel hues. Each petal unfurls like a whisper of beauty, creating a visual symphony that speaks...",
+          "promotion": "Enjoy 30% Off On Select Items!",
+          "isNew": false,
+          "isTop": true,
+          "ratingCount": 1,
+          "isFeatured": false,
+          "oldPrice": "12.99",
+          "isBestSeller": true
         },
         {
-            "id": 5,
-            "sizes": [
-                "39",
-                "40",
-                "41",
-                "42",
-                "43",
-                "44"
-            ],
-            "tags": [
-                "Comfortable",
-                "Stylish",
-                "Flexible"
-            ],
-            "name": "Urban Charm Sneakers",
-            "colors": [
-                {
-                    "id": 1,
-                    "name": "Pastel Red",
-                    "code": "#FF6262"
-                },
-                {
-                    "id": 2,
-                    "name": "Maya Blue",
-                    "code": "#63C7FF"
-                },
-                {
-                    "id": 3,
-                    "name": "Champagne",
-                    "code": "#F8E7CD"
-                },
-                {
-                    "id": 4,
-                    "name": "Delft blue",
-                    "code": "#193364"
-                },
-                {
-                    "id": 5,
-                    "name": "Black",
-                    "code": "#000000"
-                }
-            ],
-            "images": [
-                "https://george-fx.github.io/stephub/assets/products/05.jpg",
-                "https://george-fx.github.io/stephub/assets/products/05.jpg",
-                "https://george-fx.github.io/stephub/assets/products/05.jpg"
-            ],
-            "image": "https://george-fx.github.io/stephub/assets/products/05.jpg",
-            "audience": [
-                "Women"
-            ],
-            "categories": [
-                "Urban Shoes"
-            ],
-            "description": "Get ready to elevate your workout game with our FlexFit Training Shoes. Engineered for maximum performance and comfort, these shoes are designed to support you thro...",
-            "rating": 3,
-            "quantity": null,
-            "promotion": "Take 50% Off Now!",
-            "isNew": true,
-            "isTop": false,
-            "ratingCount": 35,
-            "price": "54.99",
-            "isFeatured": true,
-            "isBestSeller": true,
-            "oldPrice": null
+          "id": 6,
+          "name": "Lavender",
+          "colors": [
+            "Tropical Indigo",
+            "Medium Sky Blue",
+            "Lavender Rose",
+            "Light Salmon Pink"
+          ],
+          "image": "https://everbloom.rn-admin.site/storage/4DbT6k3NXAZHIoWC3B69FeSWWYG0km8p0zz2xd9n.jpg",
+          "potTypes": [
+            "Ceramic"
+          ],
+          "categories": [
+            "Herbs & Edibles"
+          ],
+          "plantTypes": [
+            "Herbs And Edibles"
+          ],
+          "price": "24.00",
+          "images": [
+            "https://everbloom.rn-admin.site/storage/8x82elK3OA5KfpvMCOqLYRHZnPpl6BC9yBL9EX4r.jpg",
+            "https://everbloom.rn-admin.site/storage/FRFChw3pFGh2yoxnyNc6jyp05obM0ktEK3AXNRee.jpg",
+            "https://everbloom.rn-admin.site/storage/fw63A96ysQs6ECF4bPYVFrxTunxPHmOSBLBKiBVo.jpg"
+          ],
+          "rating": 5,
+          "quantity": null,
+          "description": "Immerse yourself in the delicate charm of pink orchids. Radiating a sense of femininity and grace, these exquisite blossoms captivate with their soft, pastel hues. Each petal unfurls like a whisper of beauty, creating a visual symphony that speaks...",
+          "promotion": "Exclusive Weekend Deal! Save 20%!",
+          "isNew": true,
+          "isTop": false,
+          "ratingCount": 1,
+          "isFeatured": true,
+          "oldPrice": null,
+          "isBestSeller": false
         },
         {
-            "id": 6,
-            "sizes": [
-                "39",
-                "40",
-                "41",
-                "42",
-                "43",
-                "44"
-            ],
-            "tags": [
-                "Hiking Boots",
-                "Waterproof",
-                "Comfortable",
-                "Flexible",
-                "Stylish"
-            ],
-            "name": "Seeker Hiking Bootss",
-            "colors": [
-                {
-                    "id": 1,
-                    "name": "Pastel Red",
-                    "code": "#FF6262"
-                },
-                {
-                    "id": 2,
-                    "name": "Maya Blue",
-                    "code": "#63C7FF"
-                },
-                {
-                    "id": 3,
-                    "name": "Champagne",
-                    "code": "#F8E7CD"
-                },
-                {
-                    "id": 4,
-                    "name": "Delft blue",
-                    "code": "#193364"
-                },
-                {
-                    "id": 5,
-                    "name": "Black",
-                    "code": "#000000"
-                }
-            ],
-            "images": [
-                "https://george-fx.github.io/stephub/assets/products/06.jpg",
-                "https://george-fx.github.io/stephub/assets/products/06.jpg",
-                "https://george-fx.github.io/stephub/assets/products/06.jpg"
-            ],
-            "image": "https://george-fx.github.io/stephub/assets/products/06.jpg",
-            "audience": [
-                "Men"
-            ],
-            "categories": [
-                "Specialty Shoes"
-            ],
-            "description": "Get ready to elevate your workout game with our FlexFit Training Shoes. Engineered for maximum performance and comfort, these shoes are designed to support you thro...",
-            "rating": 4,
-            "quantity": null,
-            "promotion": "Take 50% Off Now!",
-            "isNew": false,
-            "isTop": true,
-            "ratingCount": 9,
-            "price": "89.99",
-            "isFeatured": true,
-            "isBestSeller": true,
-            "oldPrice": null
+          "id": 7,
+          "name": "Aakdo",
+          "colors": [
+            "Medium Sky Blue",
+            "Lavender Rose"
+          ],
+          "image": "https://everbloom.rn-admin.site/storage/KqHDRtc5vEgUDRbgYl7dch2sHDsq3u01LmYb5RdM.jpg",
+          "potTypes": [
+            "Iron"
+          ],
+          "categories": [
+            "Indoor",
+            "Air-Purifying"
+          ],
+          "plantTypes": [
+            "Indoor",
+            "Air-Purifying"
+          ],
+          "price": "85.00",
+          "images": [
+            "https://everbloom.rn-admin.site/storage/HxmIy7kJZvIlv3VTVobXAmcfaPclJLZfiMV0S78E.jpg"
+          ],
+          "rating": 5,
+          "quantity": null,
+          "description": "Air purifying indoor plants that can survive in any kind of atmosphere, the best part of this plant is to survive even with in a room like a pigstay with very less maintenance. Just need to water once in 5 years no need of sunlight or anything else.",
+          "promotion": "Enjoy 40% Off On Select Items!",
+          "isNew": true,
+          "isTop": true,
+          "ratingCount": 3,
+          "isFeatured": true,
+          "oldPrice": "90.00",
+          "isBestSeller": true
         }
-    ]
+      ]
 }
