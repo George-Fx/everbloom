@@ -16,7 +16,7 @@
     // устанавливаем размер шрифта
     "window.zoomLevel": 0.7,
     // размер шрифта в редакторе
-    "editor.fontSize": 11.9,
+    "editor.fontSize": 12,
   
     // Настройки курсора
     "editor.cursorBlinking": "expand",
