@@ -2,47 +2,39 @@
     "categories": [
         {
             "id": 1,
-            "name": "Athletic Shoes",
+            "name": "Indoor",
             "image": "https://george-fx.github.io/everbloom/assets/categories/01.jpg",
-            "audience": [
-                "Men",
-                "Women"
-            ]
+            "qty": 36
         },
         {
             "id": 2,
-            "name": "Urban Shoes",
+            "name": "Outdoor",
             "image": "https://george-fx.github.io/everbloom/assets/categories/02.jpg",
-            "audience": [
-                "Men",
-                "Women"
-            ]
+            "qty": 621
         },
         {
             "id": 3,
-            "name": "Specialty Shoes",
+            "name": "Air-Purifying",
             "image": "https://george-fx.github.io/everbloom/assets/categories/03.jpg",
-            "audience": [
-                "Men"
-            ]
+            "qty": 150
         },
         {
             "id": 4,
-            "name": "Outdoor Shoes",
+            "name": "Succulents & Cacti",
             "image": "https://george-fx.github.io/everbloom/assets/categories/04.jpg",
-            "audience": [
-                "Men"
-            ]
+            "qty": 54
         },
         {
             "id": 5,
-            "name": "Formal Shoes",
+            "name": "Flowering Plants",
             "image": "https://george-fx.github.io/everbloom/assets/categories/05.jpg",
-            "audience": [
-                "Men",
-                "Women",
-                "Kids"
-            ]
+            "qty": 112
+        },
+        {
+            "id": 6,
+            "name": "Herbs & Edibles",
+            "image": "https://george-fx.github.io/everbloom/assets/categories/05.jpg",
+            "qty": 98
         }
     ]
 }
