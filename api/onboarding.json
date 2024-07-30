@@ -2,16 +2,19 @@
     "carousel": [
         {
             "id": 1,
+            "title": "Welcome to Green Oasis!",
             "image": "https://george-fx.github.io/everbloom/assets/carousel/04.jpg",
             "promotion": "Welcome To StepHub! 50% Off"
         },
         {
             "id": 2,
+            "title": "Discover Your Green Haven",
             "image": "https://george-fx.github.io/everbloom/assets/carousel/04.jpg",
             "promotion": "Welcome To StepHub! 50% Off"
         },
         {
             "id": 3,
+            "title": "Bring Nature Home",
             "image": "https://george-fx.github.io/everbloom/assets/carousel/04.jpg",
             "promotion": "Welcome To StepHub! 50% Off"
         }
