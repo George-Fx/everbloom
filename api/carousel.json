@@ -2,19 +2,22 @@
     "carousel": [
         {
             "id": 1,
-            "title": "Enjoy 30% Off on Select Items!",
+            "titleLine1": "Enjoy 30% Off on",
+            "titleLine2": "Select Items!",
             "image": "https://george-fx.github.io/everbloom/assets/carousel/06.jpg",
             "promotion": "Welcome To StepHub! 50% Off"
         },
         {
             "id": 2,
-            "title": "Enjoy 30% Off on Select Items!",
+            "titleLine1": "Enjoy 30% Off on",
+            "titleLine2": "Select Items!",
             "image": "https://george-fx.github.io/everbloom/assets/carousel/06.jpg",
             "promotion": "Welcome To StepHub! 50% Off"
         },
         {
             "id": 3,
-            "title": "Enjoy 30% Off on Select Items!",
+            "titleLine1": "Enjoy 30% Off on",
+            "titleLine2": "Select Items!",
             "image": "https://george-fx.github.io/everbloom/assets/carousel/06.jpg",
             "promotion": "Welcome To StepHub! 50% Off"
         }
